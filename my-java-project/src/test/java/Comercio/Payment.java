@@ -9,5 +9,6 @@ package Comercio;
  * @author felkng <&it;felipe Rodrigues at ifnmg&gt;>
  */
 public class Payment {
+    private String type;
     
 }
